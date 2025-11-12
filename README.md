@@ -7,7 +7,7 @@ A cross-platform Instagram OSINT (Open Source Intelligence) tool for gathering p
 - Profile information extraction
 - Folowing and Followers
 - Social media link extraction
-- Phone number hind(If Available)
+- Phone number (If Available)
 
 ## Requirements
 
